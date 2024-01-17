@@ -1,0 +1,5 @@
+{
+  "USE_LOCAL_API": false,
+  "LOCAL_API_BASE": "http://localhost:5100",
+  "REST_API_BASE": "https://8rlcva5tx7.execute-api.us-east-1.amazonaws.com/prod"
+}
